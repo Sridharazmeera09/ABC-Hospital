@@ -1,0 +1,41 @@
+body
+{
+    background: #ecedf4;
+}
+.class1 {
+    background: blue;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+h2 {
+    color: blue;
+}
+
+a {
+    color: white;
+    text-align: center;
+}
+input
+{
+    padding: 5px
+}
+.button{
+    background: blue;
+    color: white;
+    padding: 5px 730px 5px 685px;
+}
+#message{
+    padding: 5px 671px 5px 671px ;
+}
+img{
+    margin: 15PX;
+    border-radius: 15px;
+}
+#register{
+    padding: 5px 730px 5px 730px;
+}
+#login{
+    padding: 5px 740px 5px 740px;
+}
